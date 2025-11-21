@@ -27,7 +27,7 @@ A is invertible $\forall \lambda \notin \{0, -1, 1\}$
 
 > $detAB = detA * detB$
 
-> $det(A+B) \neq  detA = detB$
+> $det(A+B) \neq  detA + detB$
 
 ##
 
