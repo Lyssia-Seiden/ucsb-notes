@@ -1,0 +1,6 @@
+[submodule "cs/computing-1a/lyssia-cs32-lab05"]
+	path = cs/computing-1a/lyssia-cs32-lab05
+	url = git@github.com:ucsb-cmptgcs1a-f25/lyssia-cs32-lab05.git
+[submodule "cs/computing-1a/lyssia-cs32-lab04"]
+	path = cs/computing-1a/lyssia-cs32-lab04
+	url = git@github.com:ucsb-cmptgcs1a-f25/lyssia-cs32-lab04.git
